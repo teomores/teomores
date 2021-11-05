@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
   <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Lives-Italy-red" />
+  <img src="https://komarev.com/ghpvc/?username=teomores&label=Views&color=lightgrey" />
 </p>
 
 ```
