@@ -13,7 +13,7 @@
 👨🏻‍💻 Matteo Moreschini
 🇮🇹 Italian
 🖥 Data Engineer @ Extendi
-📊 Data Science Enthusiat
+📊 Data Science Enthusiast
 🎮 Gamer
 ⚽️ Sports Lover 
 ```
