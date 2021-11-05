@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#d4d4d4">Hey there, I'm  <span style="color:#46b4eb"> teomores</span>.</h1>
+<h1 align="center">Hey there, I'm  <span style="color:#46b4eb"> teomores</span>.</h1>
 
 
 <p align="center">
@@ -17,8 +17,7 @@
 🎮 Gamer
 ⚽️ Sports Lover 
 ```
-<hr style="height:1px;border-width:1px;color:#d4d4d4;background-color:#d4d4d4">
-<h2 align="center" style="color:#d4d4d4"> 📫 Contacts 📫</h2>
+<h2 align="center"> 📫 Contacts 📫</h2>
 These are my contacts if you want to ask me something about data science/engineering, sports or you just want to say hi 😄
 <br>
 <br>
