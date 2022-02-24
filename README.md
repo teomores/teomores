@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Soft%Eng-brightgreen" />
   <img src="https://img.shields.io/badge/Age-26-blue" />
   <img src="https://img.shields.io/badge/Lives-Italy-red" />
 </p>
@@ -13,7 +13,6 @@
 👨🏻‍💻 Matteo Moreschini
 🇮🇹 Italian
 🖥 Data Engineer @ Extendi
-📊 Data Science Enthusiast
 🎮 Gamer
 ⚽️ Sports Lover 
 ```
