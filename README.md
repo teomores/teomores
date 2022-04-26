@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Matteo Moreschini
 🇮🇹 Italian
-🖥 Data Engineer @ Extendi
+🖥 Software Development Engineer @ Amazon
 🎮 Gamer
 ⚽️ Sports Lover 
 ```
