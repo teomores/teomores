@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Matteo Moreschini
 🇮🇹 Italian
-🖥 Software Development Engineer @ Amazon
+🖥 Software Development Engineer @ Amazon Web Services (AWS)
 🎮 Gamer
 ⚽️ Sports Lover 
 ```
