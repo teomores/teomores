@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Soft%20Eng-brightgreen" />
-  <img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Lives-Italy-red" />
 </p>
 
