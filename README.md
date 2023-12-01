@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Soft%20Eng-brightgreen" />
-  <img src="https://img.shields.io/badge/Age-27-blue" />
+  <img src="https://img.shields.io/badge/Age-28-blue" />
   <img src="https://img.shields.io/badge/Lives-Italy-red" />
 </p>
 
@@ -14,7 +14,7 @@
 🇮🇹 Italian
 🖥 Software Development Engineer @ Amazon Web Services (AWS)
 🎮 Gamer
-⚽️ Sports Lover 
+⚽️ Sports Lover, padel player 🍳🎾
 ```
 <h2 align="center"> 📫 Contacts 📫</h2>
 These are my contacts if you want to ask me something about data science/engineering, sports or you just want to say hi 😄
