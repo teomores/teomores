@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Matteo Moreschini
 🇮🇹 Italian
-🖥 Software Development Engineer @ Amazon Web Services (AWS)
+🖥 Software Engineer @ Kraken Technologies 🐙 | Ex AWS
 🎮 Gamer
 ⚽️ Sports Lover, padel player 🍳🎾
 ```
